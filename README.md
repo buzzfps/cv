@@ -1,3 +1,3 @@
 # cv
 
--Meu curriculo
+- Meu curriculo
