@@ -1,3 +1,1 @@
-# cv
-
-- Meu curriculo
+# Meu currículo
